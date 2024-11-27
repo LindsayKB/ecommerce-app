@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="theme-color" content="#000000">
+
+  <link rel="shortcut icon" href="./favicon.png">
+
+  <!--
+    Do not use @8 in production, use a complete version like x.x.x, see website for latest version:
+    https://www.algolia.com/doc/guides/building-search-ui/installation/js/#load-the-styles
+  -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/instantsearch.css@8/themes/satellite-min.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65" crossorigin="anonymous">
+  <link rel="stylesheet" href="./src/index.css">
+  <link rel="stylesheet" href="./src/app.css">
+
+  <title>ecommerce-app</title>
+</head>
+
+<body>
+  <header class="d-flex flex-wrap justify-content-center py-3 mb-4 border-bottom bg-dark text-white">
+    <h1>Lindsay's Online Store</h1>
+  </header>
+
+  <div class="container">
+    <div class="search-panel row">
+      <div class="search-panel__filters col-md-4">
+        <div id="clear-refinements" class="filter-option"></div>
+        <h2>Price</h2>
+        <div id="price-range" class="filter-option"></div>
+
+        <h2>Shipping Cost</h2>
+        <div id="toggle-refinement" class="filter-option"></div>
+
+        <h2>Brands</h2>
+        <div id="brand-list" class="filter-option"></div>
+
+        <h2>Categories</h2>
+        <div id="categories-list" class="filter-option"></div>
+
+      </div>
+
+      <div class="search-panel__results col-md-8">
+        <div id="searchbox"></div>
+        <div id="stats"></div>
+        <div id="hits" class="container"></div>
+        <div id="pagination"></div>
+      </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/algoliasearch@4.10.5/dist/algoliasearch-lite.umd.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/instantsearch.js@4.75.5"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-kenU1KFdBIe4zVF0s0G1M5b4hcpxyD9F7jL+jjXkk+Q2h455rYXK/7HAuoJl+0I4" crossorigin="anonymous"></script>
+  <script type="module" src="./src/app.js"></script>
+</body>
+
+</html>
