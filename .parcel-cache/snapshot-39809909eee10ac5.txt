@@ -21,7 +21,7 @@
 107D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\README.md133771176767944998 0
 171D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg\.parcelrc133770743486000000 0
 134D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\js-yaml\lib\type\map.js132887559419450000 0
-108D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\index.html133771363888611216 0
+108D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\index.html133771385517932962 0
 111D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\.editorconfig133771176767909815 0
 146D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\uri-js\dist\esnext\schemes\urn.d.ts132887559497380000 0
 155D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\instantsearch.js\es\types\instantsearch.d.ts133770743473880000 0
@@ -78,7 +78,7 @@
 150D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\caniuse-lite\data\features\autofocus.js133770743509480000 0
 151D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\type-fest\source\fixed-length-array.d.ts132887559497580000 0
 144D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\cosmiconfig\dist\loaders.d.ts.map133770743572950000 0
-102D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\dist133771369772101056 1
+102D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\dist133771385611726737 1
 131D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\@types\qs\index.d.ts133770743473950000 0
 160D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\Makefile133770743509760000 0
 128D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\path-key\index.js132334664134580000 0
@@ -150,7 +150,7 @@
 160D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\@parcel\types-internal\src\DependencySpecifier.js133770743487540000 0
 148D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\type-fest\source\merge-exclusive.d.ts132887559497580000 0
 139D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\posthtml-render\package.json133770743560300000 0
-108D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\src\app.js133771369770674954 0
+108D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\src\app.js133771385302504087 0
 153D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\@parcel\core\test\fixtures\parcel\other.js133770743486000000 0
 146D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\caniuse-lite\data\features\touch.js133770743509480000 0
 132D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\preact\compat\LICENSE133770743466990000 0
@@ -233,7 +233,7 @@
 165D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\caniuse-lite\data\features\css-indeterminate-pseudo.js133770743509480000 0
 142D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\caniuse-lite\data\regions\BF.js133770743509480000 0
 172D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\posthtml\node_modules\htmlparser2\lib\WritableStream.d.ts.map133770743578070000 0
-120D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\dist\index.0641b553.js133771369772041225 0
+120D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\dist\index.0641b553.js133771385611676867 0
 137D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\ajv\lib\dot\properties.jst132887559414700000 0
 146D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\htmlnano\lib\modules\minifyUrls.mjs133770743557590000 0
 152D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\eslint\lib\rules\array-bracket-newline.js133770743477000000 0
@@ -1621,7 +1621,7 @@
 141D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\electron-to-chromium\README.md133770743510520000 0
 146D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\instantsearch.js\es\widgets\sort-by133771176928374352 1
 127D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\srcset\readme.md133770743562820000 0
-124D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\dist\index.0641b553.js.map133771369772101056 0
+124D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\dist\index.0641b553.js.map133771385611716737 0
 157D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\posthtml\node_modules\dom-serializer\README.md133770743580980000 0
 137D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\term-size\vendor\.DS_Store133770743497140000 0
 127D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\node_modules\lmdb\src\env.cpp133770743509760000 0
@@ -7554,4 +7554,4 @@
 121D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\dist\index.4a5519d3.css133771369287055687 0
 125D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\dist\index.4a5519d3.css.map133771369287075639 0
 124D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\dist\index.816e7b21.js.map133771194475839503 0
-113D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\dist\index.html133771363898664816 0
+113D:\Files\Documents\SampleProjects\AlgoliaTest\customer-engineer-assignment-main\src\ecommerce-app\dist\index.html133771385610556412 0
